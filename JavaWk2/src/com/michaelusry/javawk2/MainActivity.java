@@ -1,10 +1,10 @@
+//Michael Usry
+//Java 1
+//Term 1406
+
 package com.michaelusry.javawk2;
 
 
-import org.json.JSONArray;
-import org.json.JSONObject;
-
-import com.michaelusry.javawk2.json.JSON;
 
 import android.support.v7.app.ActionBarActivity;
 import android.content.Context;

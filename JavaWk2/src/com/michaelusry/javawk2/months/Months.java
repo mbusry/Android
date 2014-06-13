@@ -1,3 +1,8 @@
+//Michael Usry
+//Java 1
+//Term 1406
+
+
 package com.michaelusry.javawk2.months;
 
 public enum Months {
